@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/home-library.iml" filepath="$PROJECT_DIR$/.idea/home-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homelibrary/homelibrary.iml" filepath="$PROJECT_DIR$/homelibrary/homelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail API/jaf-1.1.1/jaf-1.1.1.iml" filepath="$PROJECT_DIR$/mail API/jaf-1.1.1/jaf-1.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail API/javamail-1.4.4/javamail-1.4.4.iml" filepath="$PROJECT_DIR$/mail API/javamail-1.4.4/javamail-1.4.4.iml" />
+    </modules>
+  </component>
+</project>
